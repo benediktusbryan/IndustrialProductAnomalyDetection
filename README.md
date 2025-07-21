@@ -1,1 +1,1 @@
-# IndustrialProductAnomalyDetection
+# Industrial Product Anomaly Detection
